@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Prajeshpandya/Expenses_Manager.git/static/css/main.15d00e8d.css",
-    "main.js": "/Prajeshpandya/Expenses_Manager.git/static/js/main.97505b5f.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Prajeshpandya/Expenses_Manager.git/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/Prajeshpandya/Expenses_Manager.git/index.html",
-    "main.15d00e8d.css.map": "/Prajeshpandya/Expenses_Manager.git/static/css/main.15d00e8d.css.map",
-    "main.97505b5f.js.map": "/Prajeshpandya/Expenses_Manager.git/static/js/main.97505b5f.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Prajeshpandya/Expenses_Manager.git/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/Expenses_Manager/static/css/main.15d00e8d.css",
+    "main.js": "/Expenses_Manager/static/js/main.a8c714c7.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Expenses_Manager/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Expenses_Manager/index.html",
+    "main.15d00e8d.css.map": "/Expenses_Manager/static/css/main.15d00e8d.css.map",
+    "main.a8c714c7.js.map": "/Expenses_Manager/static/js/main.a8c714c7.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Expenses_Manager/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.15d00e8d.css",
-    "static/js/main.97505b5f.js"
+    "static/js/main.a8c714c7.js"
   ]
 }
